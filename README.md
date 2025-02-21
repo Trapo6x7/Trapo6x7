@@ -1,4 +1,4 @@
-# 👨‍💻 Gotaga | Développeur Web & Web Mobile
+# 👨‍💻 Trapo | Développeur Web & Web Mobile
 
 Salut, je suis **Trapo** 👋, un développeur passionné par la **technologie**, le **design** et la **créativité**. Après plusieurs années passées en tant que **graphiste**, où j'ai forgé un regard aiguisé sur l'ergonomie et l’esthétique des interfaces, j'ai décidé de me lancer dans le **développement web** pour combiner mes compétences créatives et techniques. Cette reconversion m'a permis de découvrir une passion pour le **coding** et de plonger dans le monde fascinant du **développement web** et **mobile**.
 
