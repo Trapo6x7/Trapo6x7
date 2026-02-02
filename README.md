@@ -8,8 +8,8 @@ Je suis constamment en quête de nouvelles **technologies** à explorer et de pr
 
 ## 🔧 Compétences
 
-- **Langages** : HTML, CSS, JavaScript, PHP
-- **Frameworks** : React, Symfony
+- **Langages** : HTML, CSS, JavaScript, PHP, Javacript
+- **Frameworks** : React, Symfony, Laravel, Next JS
 - **Outils** : Git, Figma, Suite Adobe
 - **Bases de données** : MySQL
 - **Méthodologies** : Développement Agile, MVC, RESTful APIs
